@@ -1,2 +1,2 @@
 # unicorn-providers
-Data providers for the universal Unicorn Display
+Data providers for the universal Unicorn Display https://github.com/actuino/unicorn-display 
