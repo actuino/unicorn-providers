@@ -8,7 +8,7 @@ A collection of data providers that convert and send formatted data to a display
 
 ## Github provider
 
-Watches stats from a Github repo : https://github.com/actuino/unicorn-providers/github 
+Watches stats from a Github repo : https://github.com/actuino/unicorn-providers/tree/master/github 
 Display stars, issues etc count as binary.
 
 # Incoming providers
